@@ -1,0 +1,76 @@
+(footprint "jlc_toolinghole"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.127 1.651 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3915195d-9eae-425a-adeb-892ea11436e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Value" "tooling_hole"
+		(at 0.0635 -1.397 0)
+		(layer "F.Fab")
+		(uuid "7bfec527-3e7b-4d9c-80c2-86a14ee12b5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "meshtastic-diy 1W:jlc_toolinghole"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2bf277c-4434-41af-844d-c9899b09bd26")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06223202-3131-48ae-a615-937c531c7cf0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a41e60b-aede-4951-8c9d-9f7244c131bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "" np_thru_hole circle
+		(at 0.0635 0)
+		(size 1.152 1.152)
+		(drill 1.152)
+		(layers "*.Cu" "*.Mask")
+		(solder_mask_margin 0.148)
+		(solder_paste_margin 1.152)
+		(clearance 0.25)
+		(uuid "7ef26994-ffbb-4b3d-bf95-b63de74ea386")
+	)
+)
