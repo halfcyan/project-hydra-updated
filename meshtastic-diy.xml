@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\halfcyan\Documents\project-hydra-updated\Hardware\meshtastic-diy.kicad_sch</source>
+    <date>2024-04-12T18:47:23-0500</date>
+    <tool>Eeschema 8.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Meshtastic DIY 1W board</title>
+        <company/>
+        <rev>2.1</rev>
+        <date>2022-01-06</date>
+        <source>meshtastic-diy.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C519438</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C519438"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061748340</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C519438</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C519438"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061765568</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C86295</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C86295"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006182beb9</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C519438</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C519438"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006176d3dc</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C519438</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C519438"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006176e191</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0363f1eb-614e-4df0-814b-bc9ab65653cc</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C86295 </field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C86295 "/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617e1a7c</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C86295 </field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C86295 "/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617d63d6</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C86295 </field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C86295 "/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617d6b36</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C86295 </field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC#" value="C86295 "/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061826100</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C434421</field>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="LED" description="Light emitting diode"/>
+      <property name="LCSC#" value="C434421"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006174c385</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>tooling_hole</value>
+      <footprint>meshtastic-diy 1W:jlc_toolinghole</footprint>
+      <fields>
+        <field name="Footprint">meshtastic-diy 1W:jlc_toolinghole</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061ced187</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>tooling_hole</value>
+      <footprint>meshtastic-diy 1W:jlc_toolinghole</footprint>
+      <fields>
+        <field name="Footprint">meshtastic-diy 1W:jlc_toolinghole</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061ced430</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>ipex antenna</value>
+      <footprint>meshtastic-diy 1W:U.FL_Molex_MCRF_73412-0110_horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="LCSC#"> C882052</field>
+        <field name="Footprint">meshtastic-diy 1W:U.FL_Molex_MCRF_73412-0110_horizontal</field>
+        <field name="Datasheet"> ~</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC#" value=" C882052"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061763a1c</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>4.7uH</value>
+      <footprint>Inductor_SMD:L_Chilisin_BMRA00040420</footprint>
+      <fields>
+        <field name="LCSC#">C136097</field>
+        <field name="Footprint">Inductor_SMD:L_Chilisin_BMRA00040420</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="L" description=""/>
+      <property name="LCSC#" value="C136097"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617d14e6</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC848</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC#">C8577</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="BC848" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC#" value="C8577"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="NPN Small Signal Transistor"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006173ff8a</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BC848</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC#">C8577</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="BC848" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC#" value="C8577"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="NPN Small Signal Transistor"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617408e6</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BC848</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC#">C8577</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="BC848" description="0.1A Ic, 30V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC#" value="C8577"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="NPN Small Signal Transistor"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d3f96d</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>CJ2301</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="LCSC#">C8547</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <property name="LCSC#" value="C8547"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d38b1b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C23179</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C23179"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006174de67</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C15402</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C15402"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006174ebe8</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617437f3</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061743bba</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006174706a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Config">-core,-autoprog</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Config" value="-core,-autoprog"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061729e55</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061747c98</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C23179</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C23179"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006174a604</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006175cab5</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C15402</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C15402"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d72a88</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C15402</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C15402"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d733d5</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d393cd</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>536k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C227955</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C227955"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617d4f78</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>118k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C137804</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C137804"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617d58f3</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d3cf43</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C15402</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C15402"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d6eafd</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC#">C98220</field>
+        <field name="Config">-core,-psram</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="R" description="Resistor"/>
+      <property name="LCSC#" value="C98220"/>
+      <property name="Config" value="-core,-psram"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061e1c378</tstamps>
+    </comp>
+    <comp ref="SYM1">
+      <value>Meshtastic Logo</value>
+      <footprint>meshtastic-diy 1W:meshtastic_logo</footprint>
+      <fields>
+        <field name="Footprint">meshtastic-diy 1W:meshtastic_logo</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="SYM_Radio_Waves_Small" description="Radio waves warning symbol, small"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="symbol logo radio waves warning radiation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d173de</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="custom_parts" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>913b91ed-c803-4667-b1d0-3385def98f16</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="custom_parts" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95f33890-b87d-4315-9dfc-4aceae7a39a2</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-WROOM-32UE-N8</value>
+      <footprint>SamacSys_Parts:ESP32WROOM32UEN8</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf</datasheet>
+      <description>Multiprotocol Modules SMD module ESP32-WROOM-32UE, ESP32-D0WD-V3, ESP32 ECO V3, 8 MB SPI flash, IPEX antenna connector</description>
+      <fields>
+        <field name="Height">3.35</field>
+        <field name="Manufacturer_Name">Espressif Systems</field>
+        <field name="Manufacturer_Part_Number">ESP32-WROOM-32UE-N8</field>
+        <field name="Mouser Part Number">356-ESP32WRM32UE64UH</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32UE-N8?qs=Li%252BoUPsLEntX6CSaKZB9vw%3D%3D</field>
+        <field name="Arrow Part Number"/>
+        <field name="Arrow Price/Stock"/>
+        <field name="LCSC#">C701345</field>
+        <field name="Footprint">SamacSys_Parts:ESP32WROOM32UEN8</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf</field>
+        <field name="Description">Multiprotocol Modules SMD module ESP32-WROOM-32UE, ESP32-D0WD-V3, ESP32 ECO V3, 8 MB SPI flash, IPEX antenna connector</field>
+      </fields>
+      <libsource lib="custom_parts" part="ESP32-WROOM-32UE-N8" description="Multiprotocol Modules SMD module ESP32-WROOM-32UE, ESP32-D0WD-V3, ESP32 ECO V3, 8 MB SPI flash, IPEX antenna connector"/>
+      <property name="Height" value="3.35"/>
+      <property name="Manufacturer_Name" value="Espressif Systems"/>
+      <property name="Manufacturer_Part_Number" value="ESP32-WROOM-32UE-N8"/>
+      <property name="Mouser Part Number" value="356-ESP32WRM32UE64UH"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32UE-N8?qs=Li%252BoUPsLEntX6CSaKZB9vw%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC#" value="C701345"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>073d5703-51c2-4490-941b-82d8ee26dd5c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ESP-PSRAM64</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="LCSC#">C261881</field>
+        <field name="Config">-core,-autoprog</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="ESP-PSRAM32" description="32 Mbit serial pseudo SRAM device organized as 4Mx8 bits, 1.8 VCC, SOIC8 (SOP8)"/>
+      <property name="LCSC#" value="C261881"/>
+      <property name="Config" value="-core,-autoprog"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="32 Mbit serial pseudo SRAM MEMORY"/>
+      <property name="ki_fp_filters" value="SOIC*3.9x4.9mm?P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006172758c</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>E22-900M30S</value>
+      <footprint>meshtastic-diy 1W:e22-900m30s-handsoldering</footprint>
+      <datasheet>https://www.ebyte.com/en/downpdf.aspx?id=453</datasheet>
+      <fields>
+        <field name="LCSC#">C411294</field>
+        <field name="Footprint">meshtastic-diy 1W:e22-900m30s-handsoldering</field>
+        <field name="Datasheet">https://www.ebyte.com/en/downpdf.aspx?id=453</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="E22-900M30S" description="SX1262 LoRa RF Modem"/>
+      <property name="LCSC#" value="C411294"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <property name="ki_keywords" value="SX1262 868/915MHz 1W SPI LoRa Module"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006173da99</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>PAM2312</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <fields>
+        <field name="LCSC#"> C157537</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="custom_parts" part="PAM2312" description="DC/DC step down"/>
+      <property name="LCSC#" value=" C157537"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="meshtastic-diy.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617d4579</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="custom_parts" part="BC848">
+      <description>0.1A Ic, 30V Vce, NPN Transistor, SOT-23</description>
+      <docs>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC848</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</field>
+        <field name="Description">0.1A Ic, 30V Vce, NPN Transistor, SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+        <fp>*UMRF*</fp>
+        <fp>*MCX*</fp>
+        <fp>*U.FL*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"> ~</field>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="E22-900M30S">
+      <description>SX1262 LoRa RF Modem</description>
+      <docs>https://www.ebyte.com/en/downpdf.aspx?id=453</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">E22-900M30S</field>
+        <field name="Footprint">meshtastic-diy 1W:e22-900m30s-handsoldering</field>
+        <field name="Datasheet">https://www.ebyte.com/en/downpdf.aspx?id=453</field>
+        <field name="Description">SX1262 LoRa RF Modem</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="RXEN" type="input"/>
+        <pin num="7" name="TXEN" type="input"/>
+        <pin num="8" name="DIO2" type="bidirectional"/>
+        <pin num="9" name="VCC" type="power_in"/>
+        <pin num="10" name="VCC" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="DIO1" type="bidirectional"/>
+        <pin num="14" name="BUSY" type="output"/>
+        <pin num="15" name="NRST" type="input"/>
+        <pin num="16" name="MISO" type="output"/>
+        <pin num="17" name="MOSI" type="input"/>
+        <pin num="18" name="SCK" type="input"/>
+        <pin num="19" name="NSS" type="input"/>
+        <pin num="20" name="GND" type="power_in"/>
+        <pin num="21" name="ANT" type="power_out"/>
+        <pin num="22" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="ESP-PSRAM32">
+      <description>32 Mbit serial pseudo SRAM device organized as 4Mx8 bits, 1.8 VCC, SOIC8 (SOP8)</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp-psram32_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm?P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP-PSRAM32</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp-psram32_datasheet_en.pdf</field>
+        <field name="Description">32 Mbit serial pseudo SRAM device organized as 4Mx8 bits, 1.8 VCC, SOIC8 (SOP8)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CE}" type="input"/>
+        <pin num="2" name="SO/SIO" type="output"/>
+        <pin num="3" name="SIO2" type="bidirectional"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="SI/SIO" type="input"/>
+        <pin num="6" name="SCLK" type="output"/>
+        <pin num="7" name="SIO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="ESP32-WROOM-32UE-N8">
+      <description>Multiprotocol Modules SMD module ESP32-WROOM-32UE, ESP32-D0WD-V3, ESP32 ECO V3, 8 MB SPI flash, IPEX antenna connector</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ESP32-WROOM-32UE-N8</field>
+        <field name="Footprint">ESP32WROOM32UEN8</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf</field>
+        <field name="Description">Multiprotocol Modules SMD module ESP32-WROOM-32UE, ESP32-D0WD-V3, ESP32 ECO V3, 8 MB SPI flash, IPEX antenna connector</field>
+        <field name="Height">3.35</field>
+        <field name="Manufacturer_Name">Espressif Systems</field>
+        <field name="Manufacturer_Part_Number">ESP32-WROOM-32UE-N8</field>
+        <field name="Mouser Part Number">356-ESP32WRM32UE64UH</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32UE-N8?qs=Li%252BoUPsLEntX6CSaKZB9vw%3D%3D</field>
+        <field name="Arrow Part Number"/>
+        <field name="Arrow Price/Stock"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND_1" type="passive"/>
+        <pin num="2" name="3V3" type="passive"/>
+        <pin num="3" name="EN" type="passive"/>
+        <pin num="4" name="SENSOR_VP" type="passive"/>
+        <pin num="5" name="SENSOR_VN" type="passive"/>
+        <pin num="6" name="IO34" type="passive"/>
+        <pin num="7" name="IO35" type="passive"/>
+        <pin num="8" name="IO32" type="passive"/>
+        <pin num="9" name="IO33" type="passive"/>
+        <pin num="10" name="IO25" type="passive"/>
+        <pin num="11" name="IO26" type="passive"/>
+        <pin num="12" name="IO27" type="passive"/>
+        <pin num="13" name="IO14" type="passive"/>
+        <pin num="14" name="IO12" type="passive"/>
+        <pin num="15" name="GND_2" type="passive"/>
+        <pin num="16" name="IO13" type="passive"/>
+        <pin num="17" name="NC_1" type="passive"/>
+        <pin num="18" name="NC_2" type="passive"/>
+        <pin num="19" name="NC_3" type="passive"/>
+        <pin num="20" name="NC_4" type="passive"/>
+        <pin num="21" name="NC_5" type="passive"/>
+        <pin num="22" name="NC_6" type="passive"/>
+        <pin num="23" name="IO15" type="passive"/>
+        <pin num="24" name="IO2" type="passive"/>
+        <pin num="25" name="IO0" type="passive"/>
+        <pin num="26" name="IO4" type="passive"/>
+        <pin num="27" name="IO16" type="passive"/>
+        <pin num="28" name="IO17" type="passive"/>
+        <pin num="29" name="IO5" type="passive"/>
+        <pin num="30" name="IO18" type="passive"/>
+        <pin num="31" name="IO19" type="passive"/>
+        <pin num="32" name="NC_7" type="passive"/>
+        <pin num="33" name="IO21" type="passive"/>
+        <pin num="34" name="RXD0" type="passive"/>
+        <pin num="35" name="TXD0" type="passive"/>
+        <pin num="36" name="IO22" type="passive"/>
+        <pin num="37" name="IO23" type="passive"/>
+        <pin num="38" name="GND_3" type="passive"/>
+        <pin num="39" name="GND_4" type="passive"/>
+        <pin num="40" name="GND_5" type="passive"/>
+        <pin num="41" name="GND_6" type="passive"/>
+        <pin num="42" name="GND_7" type="passive"/>
+        <pin num="43" name="GND_8" type="passive"/>
+        <pin num="44" name="GND_9" type="passive"/>
+        <pin num="45" name="GND_10" type="passive"/>
+        <pin num="46" name="GND_11" type="passive"/>
+        <pin num="47" name="GND_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="L">
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L2</field>
+        <field name="Value">4.7uH</field>
+        <field name="Footprint">meshtastic-diy 1W:chilsin_553-BMRA000404204R7MA</field>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+        <field name="LCSC#">C136097</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="custom_parts" part="PAM2312">
+      <description>DC/DC step down</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PAM2312</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet"/>
+        <field name="Description">DC/DC step down</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="SW" type="output"/>
+        <pin num="4" name="VIN" type="power_in"/>
+        <pin num="5" name="FB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="Q_PMOS_GSD">
+      <description>P-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GSD</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">P-MOSFET transistor, gate/source/drain</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="custom_parts" part="SYM_Radio_Waves_Small">
+      <description>Radio waves warning symbol, small</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">#SYM</field>
+        <field name="Value">SYM_Radio_Waves_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Radio waves warning symbol, small</field>
+        <field name="Sim.Enable">0</field>
+      </fields>
+    </libpart>
+    <libpart lib="custom_parts" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">test point</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="custom_parts">
+      <uri>C:\Users\halfcyan\Documents\project-hydra-updated\Hardware/custom_parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="3V3" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="EN" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="3" name="/5V_pwrctrl">
+      <node ref="U1" pin="10" pinfunction="IO25" pintype="passive"/>
+    </net>
+    <net code="4" name="/DTR">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/EN">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="6" name="/ESP32_RX">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="RXD0" pintype="passive"/>
+    </net>
+    <net code="7" name="/ESP32_TX">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="TXD0" pintype="passive"/>
+    </net>
+    <net code="8" name="/GPIO0">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="IO0" pintype="passive"/>
+    </net>
+    <net code="9" name="/GPIO2">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="IO2" pintype="passive"/>
+    </net>
+    <net code="10" name="/GPIO16">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="IO16" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="~{CE}" pintype="input"/>
+    </net>
+    <net code="11" name="/GPS_PWR_enable">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="IO4" pintype="passive"/>
+    </net>
+    <net code="12" name="/GPS_RX">
+      <node ref="U1" pin="14" pinfunction="IO12" pintype="passive"/>
+    </net>
+    <net code="13" name="/GPS_TX">
+      <node ref="U1" pin="23" pinfunction="IO15" pintype="passive"/>
+    </net>
+    <net code="14" name="/GPS_pwr">
+      <node ref="Q5" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/RTS">
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="/SCL">
+      <node ref="U1" pin="36" pinfunction="IO22" pintype="passive"/>
+    </net>
+    <net code="17" name="/SDA">
+      <node ref="U1" pin="33" pinfunction="IO21" pintype="passive"/>
+    </net>
+    <net code="18" name="/SDI_SD1">
+      <node ref="U1" pin="22" pinfunction="NC_6" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="SI/SIO" pintype="input"/>
+    </net>
+    <net code="19" name="/SDO_SD0">
+      <node ref="U1" pin="21" pinfunction="NC_5" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="SO/SIO" pintype="output"/>
+    </net>
+    <net code="20" name="/SHD_SD2">
+      <node ref="U1" pin="17" pinfunction="NC_1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="SIO3" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/SRAM_CLK">
+      <node ref="U1" pin="28" pinfunction="IO17" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="SCLK" pintype="output"/>
+    </net>
+    <net code="22" name="/SWP_SD3">
+      <node ref="U1" pin="18" pinfunction="NC_2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="SIO2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/USR_BTN">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SENSOR_VN" pintype="passive"/>
+    </net>
+    <net code="24" name="/e22_BUSY">
+      <node ref="U1" pin="8" pinfunction="IO32" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="BUSY" pintype="output"/>
+    </net>
+    <net code="25" name="/e22_DIO1">
+      <node ref="U1" pin="9" pinfunction="IO33" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="DIO1" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/e22_MISO">
+      <node ref="U1" pin="31" pinfunction="IO19" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="MISO" pintype="output"/>
+    </net>
+    <net code="27" name="/e22_MOSI">
+      <node ref="U1" pin="12" pinfunction="IO27" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="MOSI" pintype="input"/>
+    </net>
+    <net code="28" name="/e22_NRST">
+      <node ref="U1" pin="37" pinfunction="IO23" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="29" name="/e22_NSS">
+      <node ref="U1" pin="30" pinfunction="IO18" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="NSS" pintype="input"/>
+    </net>
+    <net code="30" name="/e22_RXEN">
+      <node ref="U1" pin="13" pinfunction="IO14" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="RXEN" pintype="input"/>
+    </net>
+    <net code="31" name="/e22_SCK">
+      <node ref="U1" pin="29" pinfunction="IO5" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="32" name="/e22_TXEN">
+      <node ref="U1" pin="16" pinfunction="IO13" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="TXEN" pintype="input"/>
+    </net>
+    <net code="33" name="/gpio_26">
+      <node ref="U1" pin="11" pinfunction="IO26" pintype="passive"/>
+    </net>
+    <net code="34" name="/vbat_mon">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="IO35" pintype="passive"/>
+    </net>
+    <net code="35" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND_1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND_2" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="GND_3" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="GND_4" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="GND_5" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="GND_6" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="GND_7" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="GND_8" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="GND_9" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="GND_10" pintype="passive"/>
+      <node ref="U1" pin="46" pinfunction="GND_11" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="GND_12" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="20" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="22" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="36" name="GNDA">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="37" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(J4-In)">
+      <node ref="J4" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="ANT" pintype="power_out"/>
+    </net>
+    <net code="39" name="Net-(Q1-B)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(Q2-B)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(Q4-B)">
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(Q4-C)">
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(Q5-S)">
+      <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(U1-IO34)">
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="IO34" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(U1-SENSOR_VP)">
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="SENSOR_VP" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(U5-FB)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(U5-SW)">
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="SW" pintype="output"/>
+    </net>
+    <net code="48" name="unconnected-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="unconnected-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="unconnected-(U1-NC_3-Pad19)">
+      <node ref="U1" pin="19" pinfunction="NC_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U1-NC_4-Pad20)">
+      <node ref="U1" pin="20" pinfunction="NC_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U1-NC_7-Pad32)">
+      <node ref="U1" pin="32" pinfunction="NC_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U3-DIO2-Pad8)">
+      <node ref="U3" pin="8" pinfunction="DIO2" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
